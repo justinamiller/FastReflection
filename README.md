@@ -1,5 +1,5 @@
 # Fast Reflection
-A library for fast access to .net fields/properties.
+Fast and easy way to apply reflection to any object.
 
 In .NET reflection is slow, if you need access to the members of an arbitrary type, with the type and member-names known only at runtime, then it is frankly hard, especially for dynamic types. This library makes such access easy and fast.
 
